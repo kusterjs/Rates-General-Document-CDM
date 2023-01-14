@@ -12,7 +12,7 @@ Create an Issue with your .txt file URL.
 
 # RGD Format?
   - Format `` [ID],[URL] `` ex. `` SPN,https://..... ``.
-    - ID -> Identifier to get only the Rates with the same id as the config.xml of the CDM (`rateRGD id="myId"`)
+    - ID -> Identifier to get only the Rates with the same id as the config.xml of the CDM (`rateRGD id="myId"` -> This would get only the RGDs starting with "myId")
     - URL -> Linked file with the rates, airport and configurations specifications.
   - Each line has an airport with it's value.
   - Use `` # `` as the first character for a comment.
