@@ -1,3 +1,4 @@
 ##----- Rates General Document -----##
 #--- Spain [LEXX & GCXX] ---#
-https://archivos.vatsimspain.es/Operaciones/RGD_Spain.txt
+https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/RGD_Spain.txt
+#--- Other... ---#
