@@ -10,7 +10,15 @@ Create an Issue with your .txt file URL.
 
 <br>
 
-# Which Is The Format?
+# RGD Format?
+  - Format `` [ID],[URL] `` ex. `` SPN,https://..... ``.
+    - ID -> Identifier to get only the Rates with the same id as the config.xml of the CDM (`rateRGD id="myId"`)
+    - URL -> Linked file with the rates, airport and configurations specifications.
+  - Each line has an airport with it's value.
+  - Use `` # `` as the first character for a comment.
+  - Avoid empty lines.
+
+# Format of the linked file?
 
   `AIRPORT:A:ArrRwyList:NotArrRwyList:D:DepRwyList:NotDepRwyList:DependentRwyList:Rate_RateLvo`
 
