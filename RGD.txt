@@ -1,4 +1,6 @@
 ##----- Rates General Document -----##
 #--- Spain [LEXX & GCXX] ---#
 SPN,https://archivos.vatsimspain.es/Operaciones/Plugins/CDM_data/RGD_Spain.txt
+#--- Switzerland [LSXX] ---#
+SUI,https://cdm.vacc.ch/rates.txt
 #--- Other... ---#
